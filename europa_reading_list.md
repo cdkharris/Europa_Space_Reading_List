@@ -2,7 +2,7 @@
 
 ## Plasma Interaction (PI)
 
-### <a name="harris2021">Harris et al. (2021)</a>
+### Harris 2021
 - [doi:10.1029/2020ja028888](https://doi.org/10.1029%2F2020ja028888)
 - Introduces model for the PI based on [Rubin et al. (2015)](rubin2015)
 - Data-model comparisons for Galileo E4, E14
@@ -22,5 +22,5 @@
 
 ### <a name="nordheim2021">Nordheim et al. (2021)</a>
 - in review
-- Traces energetic particles through EM fields from [Harris et al. (2021)](harris2021)
+- Traces energetic particles through EM fields from [Harris et al. (2021)](#harris-2021)
 - Surface access maps (and precipitation) for energetic particles
