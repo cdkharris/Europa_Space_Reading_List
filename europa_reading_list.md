@@ -11,6 +11,15 @@
 
 ## Plasma Interaction and Ionosphere
 
+### Addison et al. (2021)
+- [doi:10.1029/2020JA029087](https://doi.org/10.1029/2020JA029087)
+- Traces particles through EM fields from model of [Arnold et al. (2019)](#arnold-et-al-2019)
+- Maps precipitation of magnetospheric plasma to surface
+
+### Arnold et al. (2019)
+- [doi:10.1029/2018gl081544](http://dx.doi.org/10.1029/2018gl081544)
+- Introduces hybrid model for the plasma interaction, makes the case for a plume observation on *Galileo* E26
+
 ### Bagenal et al. (2015)
 - [doi:10.1016/j.icarus.2015.07.036](http://dx.doi.org/10.1016/j.icarus.2015.07.036)
 - Survey of magnetospheric conditions at Europa's orbit based on *Galileo* and *Voyager*, with an emphasis on plasma.
@@ -23,7 +32,7 @@
 ### Harris et al. (2021)
 - [doi:10.1029/2020ja028888](https://doi.org/10.1029%2F2020ja028888)
 - Introduces model for the plasma interaction based on [Rubin et al. (2015)](#rubin-et-al-2015)
-- Data-model comparisons for Galileo E4, E14 mag and density
+- Data-model comparisons for *Galileo* E4, E14 mag and density
 - Uses model to conduct parameter study of external conditions
 - Surface precipitation maps of magnetospheric thermal plasma
 - Integrated precipitation rates
@@ -46,7 +55,7 @@
 ### Rubin et al. (2015)
 - [doi:10.1002/2015ja021149](http://dx.doi.org/10.1002/2015ja021149)
 - Introduces multi-fluid MHD model for the PI
-- Data-model comparisons for Galileo E4, E26 mag and density
+- Data-model comparisons for *Galileo* E4, E26 mag and density
 - Surface precipitation maps of magnetospheric and ionospheric plasma
 - Predecessor to [Harris et al. (2021)](#harris-et-al-2021)
 
@@ -100,6 +109,16 @@
 
 ## Plumes
 
+### Arnold et al. (2020)
+- [doi:10.1029/2019ja027346](https://doi.org/10.1029%2F2019ja027346)
+- Characterizes the effects of model plumes on synthetic spacecraft magnetometer observations
+- Uses model of [Arnold et al. (2019)](#arnold-et-al-2019)
+
+### Arnold et al. (2020a)
+- [doi:10.1029/2020ja028376](https://doi.org/10.1029%2F2020ja028376)
+- Characterizes the effects of model plumes on synthetic spacecraft particle observations
+- Uses model of [Arnold et al. (2019)](#arnold-et-al-2019)
+
 ### McGrath and Sparks (2017)
 - [doi:10.3847/2515-5172/aa988e](https://doi.org/10.3847%2F2515-5172%2Faa988e)
 
@@ -114,11 +133,16 @@
 
 ## Energetic Particles
 
+### Breer et al. (2020)
+- [doi:10.1029/2019ja027147](https://doi.org/10.1029%2F2019ja027147)
+- Traces particles through EM fields from model of [Arnold et al. (2019)](#arnold-et-al-2019)
+- Surface access maps (and precipitation) for energetic ions
+
 <!--
 ### * Nordheim et al. (2021)
 - in review
 - Traces energetic particles through EM fields from [Harris et al. (2021)](#harris-et-al-2021)
-- Surface access maps (and precipitation) for energetic particles
+- Surface access maps (and precipitation) for energetic ions
 -->
 
 ### Paranicas et al. (2000)
