@@ -6,9 +6,10 @@
 
 ## Contents
 - [Plasma Interaction and Ionosphere](#plasma-interaction-and-ionosphere)
-- [Atmosphere](#atmosphere)
-- [Plumes](#plumes)
 - [Energetic Particles](#energetic-particles)
+- [Atmosphere](#atmosphere)
+- [Ocean-Induced Field](#ocean-induced-field)
+- [Plumes](#plumes)
 
 
 ## Plasma Interaction and Ionosphere
@@ -47,19 +48,45 @@
 - Integrated precipitation rates
 - Used by [Nordheim et al. (2021)](#nordheim-et-al-2021)
 
+### Jia et al. (2010)
+- review paper
+- [doi:10.1007/s11214-009-9507-8](http://dx.doi.org/10.1007/s11214-009-9507-8)
+
 ### Jia et al. (2018)
 - [doi:10.1038/s41550-018-0450-z](http://dx.doi.org/10.1038/s41550-018-0450-z)
 - Uses the [Rubin et al. (2015)](#rubin-et-al-2015) model to make the case that a plume was observed during the E12 *Galileo* flyby
 
-### Kivelson et al. (2000)
-- [doi:10.1126/science.289.5483.1340](http://dx.doi.org/10.1126/science.289.5483.1340)
-- Reporting results from the *Galileo* magnetometer on flybys E4, E11, E12, E14, E15, E17, E19, E26
-- Compares E4 and E26 observations to make the case for Europa's subsurface ocean
+### Kivelson et al. (1997)
+- [doi:]()
+
+### Kivelson et al. (1999)
+- [doi:]()
+
+### Kivelson et al. (2004)
+- [doi:]()
+
+### Kivelson et al. (2009)
+- [doi:]()
 
 ### Kliore et al. (1997)
 - [doi:10.1126/science.277.5324.355](http://dx.doi.org/10.1126/science.277.5324.355)
 - *Galileo* radio occultation observations of Europa's ionosphere, electron density
 - Updated by [McGrath et al. (2009)](#mcgrath-et-al-2009), [McGrath and Sparks (2017)](#mcgrath-and-sparks-2017)
+
+### Kurth et al. (2001)
+- [doi:]()
+
+### Lipatov et al. (2013)
+- [doi:]()
+
+### Neubauer et al. (1998)
+- [doi:]()
+
+### Neubauer et al. (1999)
+- [doi:]()
+
+### Paterson et al. (1999)
+- [doi:]()
 
 ### Rubin et al. (2015)
 - [doi:10.1002/2015ja021149](http://dx.doi.org/10.1002/2015ja021149)
@@ -71,6 +98,51 @@
 ### Saur et al. (1998)
 - [doi:10.1029/97je03556](http://dx.doi.org/10.1029/97je03556)
 - Fluid model for the plasma interaction with the atmosphere in uniform magnetic fields
+
+### Schilling et al. (2007)
+- [doi:]()
+
+### Schilling et al. (2008)
+- [doi:]()
+
+### Volwerk et al. (2001)
+- [doi:]()
+
+### Volwerk et al. (2007)
+- [doi:]()
+
+### Zimmer et al. (2000)
+- [doi:]()
+
+
+## Energetic Particles
+
+### Breer et al. (2020)
+- [doi:10.1029/2019ja027147](https://doi.org/10.1029%2F2019ja027147)
+- Traces particles through EM fields from model of [Arnold et al. (2019)](#arnold-et-al-2019)
+- Surface access maps (and precipitation) for energetic ions
+
+<!--
+### * Nordheim et al. (2021)
+- in review
+- Traces energetic particles through EM fields from [Harris et al. (2021)](#harris-et-al-2021)
+- Surface access maps (and precipitation) for energetic ions
+-->
+
+### Paranicas et al. (2000)
+- [doi:10.1029/1999ja000350](http://dx.doi.org/10.1029/1999ja000350)
+- Energetic charged particles near Europa (both ions and electrons)
+
+### Paranicas et al. (2001)
+- [doi:10.1029/2000gl012320](https://doi.org/10.1029%2F2000gl012320)
+- Energetic electrons
+
+### Paranicas et al. (2002)
+- [doi:10.1029/2001gl014127](https://doi.org/10.1029%2F2001gl014127)
+- Energetic ions
+
+### Pospieszalska and Johnson (1989)
+- [doi:]()
 
 
 ## Atmosphere
@@ -88,8 +160,15 @@
 - [doi:10.1086/305604](http://dx.doi.org/10.1086/305604)
 - Estimate of disc-averaged column density based on HST: .24-1.4 E 10^15
 
+### Johnson et al. (2009)
+- Chapter in *Europa* (Arizona Press)
+- [ibsn:9780816528448.Ch21](https://muse.jhu.edu/book/57223)
+- Sputter-induced atmosphere
+
 ### McGrath et al. (2009)
+- Chapter in *Europa* (Arizona Press)
 - [ibsn:9780816528448.Ch20](https://muse.jhu.edu/book/57223)
+- Tenuous atmosphere and a bit about its relationship with the ionosphere
 
 ### Oza et al. (2019)
 - [doi:10.1016/j.pss.2019.01.006](http://dx.doi.org/10.1016/j.pss.2019.01.006)
@@ -118,6 +197,17 @@
 - MC-type model for the atmosphere
 
 
+## Ocean-Induced Field
+
+### Khurana et al. (1998)
+- [doi:10.1038/27394](https://doi.org/10.1038/27394)
+
+### Kivelson et al. (2000)
+- [doi:10.1126/science.289.5483.1340](http://dx.doi.org/10.1126/science.289.5483.1340)
+- Reporting results from the *Galileo* magnetometer on flybys E4, E11, E12, E14, E15, E17, E19, E26
+- Compares E4 and E26 observations to make the case for Europa's subsurface ocean
+
+
 ## Plumes
 
 ### Arnold et al. (2020)
@@ -141,30 +231,3 @@
 
 ### Sparks et al. (2016)
 - [doi:10.3847/0004-637x/829/2/121](http://dx.doi.org/10.3847/0004-637x/829/2/121)
-
-
-## Energetic Particles
-
-### Breer et al. (2020)
-- [doi:10.1029/2019ja027147](https://doi.org/10.1029%2F2019ja027147)
-- Traces particles through EM fields from model of [Arnold et al. (2019)](#arnold-et-al-2019)
-- Surface access maps (and precipitation) for energetic ions
-
-<!--
-### * Nordheim et al. (2021)
-- in review
-- Traces energetic particles through EM fields from [Harris et al. (2021)](#harris-et-al-2021)
-- Surface access maps (and precipitation) for energetic ions
--->
-
-### Paranicas et al. (2000)
-- [doi:10.1029/1999ja000350](http://dx.doi.org/10.1029/1999ja000350)
-- Energetic charged particles near Europa (both ions and electrons)
-
-### Paranicas et al. (2001)
-- [doi:10.1029/2000gl012320](https://doi.org/10.1029%2F2000gl012320)
-- Energetic electrons
-
-### Paranicas et al. (2002)
-- [doi:10.1029/2001gl014127](https://doi.org/10.1029%2F2001gl014127)
-- Energetic ions
