@@ -3,15 +3,22 @@
 ### et al. ()
 - [doi:]()
 -->
+## Contents
+- [Plasma Interaction and Ionosphere](#plasma-interaction-and-ionosphere)
+- [Atmosphere](#atmosphere)
+- [Plumes](#plumes)
+- [Energetic Particles](#energetic-particles)
 
 ## Plasma Interaction and Ionosphere
 
 ### Bagenal et al. (2015)
 - [doi:10.1016/j.icarus.2015.07.036](http://dx.doi.org/10.1016/j.icarus.2015.07.036)
+- Survey of magnetospheric conditions at Europa's orbit based on *Galileo* and *Voyager*, with an emphasis on plasma.
 
 ### Bagenal et al. (2020)
 - [doi:10.1029/2019ja027485](https://doi.org/10.1029%2F2019ja027485)
 - review paper
+- Comprehensive review and comparison of the plasma interactions between Io and Europa and Jupiter's magnetosphere
 
 ### Harris et al. (2021)
 - [doi:10.1029/2020ja028888](https://doi.org/10.1029%2F2020ja028888)
@@ -22,9 +29,14 @@
 - Integrated precipitation rates
 - Used by [Nordheim et al. (2021)](#nordheim-et-al-2021)
 
+### Jia et al. (2018)
+- [doi:10.1038/s41550-018-0450-z](http://dx.doi.org/10.1038/s41550-018-0450-z)
+- Uses the [Rubin et al. (2015)](#rubin-et-al-2015) model to make the case that a plume was observed during the E12 *Galileo* flyby
+
 ### Kivelson et al. (2000)
 - [doi:10.1126/science.289.5483.1340](http://dx.doi.org/10.1126/science.289.5483.1340)
--
+- Reporting results from the *Galileo* magnetometer on flybys E4, E11, E12, E14, E15, E17, E19, E26
+- Compares E4 and E26 observations to make the case for Europa's subsurface ocean
 
 ### Kliore et al. (1997)
 - [doi:10.1126/science.277.5324.355](http://dx.doi.org/10.1126/science.277.5324.355)
@@ -73,6 +85,10 @@
 - review paper
 - Assesses the ecosystem of observations and models for Europa's atmosphere and relevant elements of the space environment.
 
+### Roth et al. (2016)
+- [doi:10.1002/2015ja022073](http://dx.doi.org/10.1002/2015ja022073)
+- Looking at correlations between Europa's oxygen aurora and magnetospheric conditions to draw conclusions about the atmosphere
+
 ### Teolis et al. (2017)
 - [doi:10.1016/j.icarus.2016.10.027](https://doi.org/10.1016%2Fj.icarus.2016.10.027)
 - MC-type highly multi-species model for the atmosphere
@@ -86,6 +102,15 @@
 
 ### McGrath and Sparks (2017)
 - [doi:10.3847/2515-5172/aa988e](https://doi.org/10.3847%2F2515-5172%2Faa988e)
+
+### Roth et al. (2013)
+- [doi:10.1126/science.1247051](http://dx.doi.org/10.1126/science.1247051)
+
+### Roth et al. (2014)
+- [doi:10.1073/pnas.1416671111](http://dx.doi.org/10.1073/pnas.1416671111)
+
+### Sparks et al. (2016)
+- [doi:10.3847/0004-637x/829/2/121](http://dx.doi.org/10.3847/0004-637x/829/2/121)
 
 ## Energetic Particles
 
@@ -102,8 +127,8 @@
 
 ### Paranicas et al. (2001)
 - [doi:10.1029/2000gl012320](https://doi.org/10.1029%2F2000gl012320)
-- energetic electrons
+- Energetic electrons
 
 ### Paranicas et al. (2002)
 - [doi:10.1029/2001gl014127](https://doi.org/10.1029%2F2001gl014127)
-- energetic ions
+- Energetic ions
