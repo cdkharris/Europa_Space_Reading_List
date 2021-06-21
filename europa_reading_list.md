@@ -3,11 +3,13 @@
 ### et al. ()
 - [doi:]()
 -->
+
 ## Contents
 - [Plasma Interaction and Ionosphere](#plasma-interaction-and-ionosphere)
 - [Atmosphere](#atmosphere)
 - [Plumes](#plumes)
 - [Energetic Particles](#energetic-particles)
+
 
 ## Plasma Interaction and Ionosphere
 
@@ -19,6 +21,13 @@
 ### Arnold et al. (2019)
 - [doi:10.1029/2018gl081544](http://dx.doi.org/10.1029/2018gl081544)
 - Introduces hybrid model for the plasma interaction, makes the case for a plume observation on *Galileo* E26
+
+### Blöcker et al. (2016)
+- [doi:10.1002/2016ja022479](http://dx.doi.org/10.1002/2016ja022479)
+- Single fluid MHD model for the plasma interaction
+- Data-model comparisons with E17, E25a, E26 *Galileo* flybys
+- Also includes analytic model for plasma
+- And estimates of ionosphere conductance
 
 ### Bagenal et al. (2015)
 - [doi:10.1016/j.icarus.2015.07.036](http://dx.doi.org/10.1016/j.icarus.2015.07.036)
@@ -62,6 +71,7 @@
 ### Saur et al. (1998)
 - [doi:10.1029/97je03556](http://dx.doi.org/10.1029/97je03556)
 - Fluid model for the plasma interaction with the atmosphere in uniform magnetic fields
+
 
 ## Atmosphere
 
@@ -107,6 +117,7 @@
 - [10.1016/j.icarus.2018.03.022](http://dx.doi.org/10.1016/j.icarus.2018.03.022)
 - MC-type model for the atmosphere
 
+
 ## Plumes
 
 ### Arnold et al. (2020)
@@ -130,6 +141,7 @@
 
 ### Sparks et al. (2016)
 - [doi:10.3847/0004-637x/829/2/121](http://dx.doi.org/10.3847/0004-637x/829/2/121)
+
 
 ## Energetic Particles
 
