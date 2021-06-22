@@ -57,16 +57,21 @@
 - Uses the [Rubin et al. (2015)](#rubin-et-al-2015) model to make the case that a plume was observed during the E12 *Galileo* flyby
 
 ### Kivelson et al. (1997)
-- [doi:]()
+- [doi:10.1126/science.276.5316.1239](https://doi.org/10.1126%2Fscience.276.5316.1239)
+- Early (first?) results from *Galileo* magnetometer
 
 ### Kivelson et al. (1999)
-- [doi:]()
+- [doi:10.1029/1998ja900095](http://dx.doi.org/10.1029/1998ja900095)
+- Making the early case for an induced field and ocean based on the magnetic and plasma environment
 
 ### Kivelson et al. (2004)
-- [doi:]()
+- [isbn:9780521035453.Ch21](https://www.cambridge.org/us/academic/subjects/physics/planetary-systems-and-astrobiology/jupiter-planet-satellites-and-magnetosphere?format=PB&isbn=9780521035453)
+- Chapter in *Jupiter* (Cambridge U. Press)
+- on the Galilean satellites more generally and their place in the Jupiter system
 
 ### Kivelson et al. (2009)
-- [doi:]()
+- Chapter in *Europa* (Arizona Press)
+- [ibsn:9780816528448.Ch23](https://muse.jhu.edu/book/57223)
 
 ### Kliore et al. (1997)
 - [doi:10.1126/science.277.5324.355](http://dx.doi.org/10.1126/science.277.5324.355)
@@ -74,19 +79,29 @@
 - Updated by [McGrath et al. (2009)](#mcgrath-et-al-2009), [McGrath and Sparks (2017)](#mcgrath-and-sparks-2017)
 
 ### Kurth et al. (2001)
-- [doi:]()
+- [doi:10.1016/S0032-0633(00)00156-2](https://doi.org/10.1016/S0032-0633(00)00156-2)
+- gives densities from *Galileo* flybys via PWS
+- density determined via upper hybrid resonance frequency
+
+### Lipatov et al. (2010)
+- [doi:j.pss.2010.06.015](http://dx.doi.org/10.1016/j.pss.2010.06.015)
+- Hybrid model for the plasma interaction
 
 ### Lipatov et al. (2013)
-- [doi:]()
+- [doi:10.1016/j.pss.2013.01.009](http://dx.doi.org/10.1016/j.pss.2013.01.009)
+- Hybrid model for the plasma interaction, inherits from [Lipatov et al. (2010)](#lipatov-et-al-2010)
 
 ### Neubauer et al. (1998)
-- [doi:]()
+- [doi:10.1029/97je03370](http://dx.doi.org/10.1029/97je03370)
+- Modeling of Alfvén wing interaction
 
 ### Neubauer et al. (1999)
-- [doi:]()
+- [doi:10.1029/1999ja900217](http://dx.doi.org/10.1029/1999ja900217)
+- Modeling of Alfvén wing interaction
 
 ### Paterson et al. (1999)
-- [doi:]()
+- [doi:10.1029/1999ja900191](http://dx.doi.org/10.1029/1999ja900191)
+- Reporting *Galileo* PLS observations for E4 and E6 flybys
 
 ### Rubin et al. (2015)
 - [doi:10.1002/2015ja021149](http://dx.doi.org/10.1002/2015ja021149)
@@ -100,19 +115,19 @@
 - Fluid model for the plasma interaction with the atmosphere in uniform magnetic fields
 
 ### Schilling et al. (2007)
-- [doi:]()
+- [doi:10.1016/j.icarus.2007.06.024](http://dx.doi.org/10.1016/j.icarus.2007.06.024)
+- MHD model for plasma interaction
 
 ### Schilling et al. (2008)
-- [doi:]()
+- [doi:10.1029/2007ja012842](https://doi.org/10.1029/2007ja012842)
+- Building on [Schilling et al. (2007)](#schilling-et-al-2007)
 
 ### Volwerk et al. (2001)
-- [doi:]()
+- [doi:10.1029/2000ja000347](http://dx.doi.org/10.1029/2000ja000347)
+- Analysis of ion cyclotron waves in magnetic field during the *Galileo* E15 and E11 flybys
 
 ### Volwerk et al. (2007)
-- [doi:]()
-
-### Zimmer et al. (2000)
-- [doi:]()
+- [doi:10.5194/angeo-25-905-2007](http://dx.doi.org/10.5194/angeo-25-905-2007)
 
 
 ## Energetic Particles
@@ -142,7 +157,11 @@
 - Energetic ions
 
 ### Pospieszalska and Johnson (1989)
-- [doi:]()
+- [doi:10.1016/0019-1035(89)90065-1](https://doi.org/10.1016%2F0019-1035%2889%2990065-1)
+- Bombardment by magnetospheric ions via particle tracking in
+- Unclear to me if these are ~>1 keV ions (what I would call energetic) or ~< 100 eV ions (what I would call plasma, thermal)
+- Unclear to me what the assumptions are for magnetic field.
+- I need to read this one closer.
 
 
 ## Atmosphere
@@ -206,6 +225,10 @@
 - [doi:10.1126/science.289.5483.1340](http://dx.doi.org/10.1126/science.289.5483.1340)
 - Reporting results from the *Galileo* magnetometer on flybys E4, E11, E12, E14, E15, E17, E19, E26
 - Compares E4 and E26 observations to make the case for Europa's subsurface ocean
+
+### Zimmer et al. (2000)
+- [doi:10.1006/icar.2000.6456](http://dx.doi.org/10.1006/icar.2000.6456)
+- Presents model for Europa's differentiated interior and analysis of resulting induced field properties
 
 
 ## Plumes
