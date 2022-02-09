@@ -46,7 +46,7 @@
 - Uses model to conduct parameter study of external conditions
 - Surface precipitation maps of magnetospheric thermal plasma
 - Integrated precipitation rates
-- Used by [Nordheim et al. (2021)](#nordheim-et-al-2021)
+- Used by [Nordheim et al. (2022)](#nordheim-et-al-2022)
 
 ### Jia et al. (2010)
 - review paper
@@ -137,12 +137,10 @@
 - Traces particles through EM fields from model of [Arnold et al. (2019)](#arnold-et-al-2019)
 - Surface access maps (and precipitation) for energetic ions
 
-<!--
-### * Nordheim et al. (2021)
-- in review
+### * Nordheim et al. (2022)
+- [doi:10.3847/PSJ/ac382a](https://doi.org/10.3847/PSJ/ac382a)
 - Traces energetic particles through EM fields from [Harris et al. (2021)](#harris-et-al-2021)
 - Surface access maps (and precipitation) for energetic ions
--->
 
 ### Paranicas et al. (2000)
 - [doi:10.1029/1999ja000350](http://dx.doi.org/10.1029/1999ja000350)
