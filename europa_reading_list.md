@@ -52,10 +52,6 @@
 - review paper
 - [doi:10.1007/s11214-009-9507-8](http://dx.doi.org/10.1007/s11214-009-9507-8)
 
-### Jia et al. (2018)
-- [doi:10.1038/s41550-018-0450-z](http://dx.doi.org/10.1038/s41550-018-0450-z)
-- Uses the [Rubin et al. (2015)](#rubin-et-al-2015) model to make the case that a plume was observed during the E12 *Galileo* flyby
-
 ### Kivelson et al. (1997)
 - [doi:10.1126/science.276.5316.1239](https://doi.org/10.1126%2Fscience.276.5316.1239)
 - Early (first?) results from *Galileo* magnetometer
@@ -241,8 +237,16 @@
 - Characterizes the effects of model plumes on synthetic spacecraft particle observations
 - Uses model of [Arnold et al. (2019)](#arnold-et-al-2019)
 
+### Jia et al. (2018)
+- [doi:10.1038/s41550-018-0450-z](http://dx.doi.org/10.1038/s41550-018-0450-z)
+- Uses the [Rubin et al. (2015)](#rubin-et-al-2015) model to make the case that a plume was observed during the E12 *Galileo* flyby
+
 ### McGrath and Sparks (2017)
 - [doi:10.3847/2515-5172/aa988e](https://doi.org/10.3847%2F2515-5172%2Faa988e)
+
+### Paganini et al. (2019)
+- [doi:10.1038/s41550-019-0933-6](https://doi.org/10.1038%2Fs41550-019-0933-6)
+- Detection of water vapor using the Keck Observatory
 
 ### Roth et al. (2013)
 - [doi:10.1126/science.1247051](http://dx.doi.org/10.1126/science.1247051)
