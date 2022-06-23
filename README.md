@@ -1,6 +1,8 @@
 # Europa Space Reading List
 A curated reading list of journal publications, research notes, and book chapters for Europa's space environment.
 
+Check out the list [here](https://github.com/cdkharris/Europa_Space_Reading_List/blob/main/europa_reading_list.md).
+
 # Contributing to the Reading List
 Fork the repository and submit a pull request to contribute changes and updates to the reading list.
 
