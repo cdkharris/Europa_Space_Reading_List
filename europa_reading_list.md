@@ -49,8 +49,9 @@
 - Used by [Nordheim et al. (2022)](#nordheim-et-al-2022)
 
 ### Jia et al. (2010)
-- review paper
 - [doi:10.1007/s11214-009-9507-8](http://dx.doi.org/10.1007/s11214-009-9507-8)
+- review paper
+- overview of the different magnetic environments found at Jupiter and Saturn's moons
 
 ### Kivelson et al. (1997)
 - [doi:10.1126/science.276.5316.1239](https://doi.org/10.1126%2Fscience.276.5316.1239)
@@ -124,6 +125,8 @@
 
 ### Volwerk et al. (2007)
 - [doi:10.5194/angeo-25-905-2007](http://dx.doi.org/10.5194/angeo-25-905-2007)
+- Effects of the ocean induced field on Europa's Alfvén wing via *Galileo* mag data
+- Alfvén wing characteristics tracing code employed
 
 
 ## Energetic Particles
@@ -140,7 +143,7 @@
 
 ### Paranicas et al. (2000)
 - [doi:10.1029/1999ja000350](http://dx.doi.org/10.1029/1999ja000350)
-- Energetic charged particles near Europa (both ions and electrons)
+- Energetic charged particles near Europa via *Galileo* EPD (both ions and electrons)
 
 ### Paranicas et al. (2001)
 - [doi:10.1029/2000gl012320](https://doi.org/10.1029%2F2000gl012320)
@@ -152,9 +155,9 @@
 
 ### Pospieszalska and Johnson (1989)
 - [doi:10.1016/0019-1035(89)90065-1](https://doi.org/10.1016%2F0019-1035%2889%2990065-1)
-- Bombardment by magnetospheric ions via particle tracking in
+- Bombardment by magnetospheric ions via particle tracking in uniform magnetic fields (?)
 - Unclear to me if these are ~>1 keV ions (what I would call energetic) or ~< 100 eV ions (what I would call plasma, thermal)
-- Unclear to me what the assumptions are for magnetic field.
+- Unclear to me what the assumptions are for magnetic field. The gyrofrequency appears to be fixed.
 - I need to read this one closer.
 
 
@@ -214,6 +217,7 @@
 
 ### Khurana et al. (1998)
 - [doi:10.1038/27394](https://doi.org/10.1038/27394)
+- Early evidence for ocean-induced field at Europa and Callisto based on *Galileo* magnetometer data
 
 ### Kivelson et al. (2000)
 - [doi:10.1126/science.289.5483.1340](http://dx.doi.org/10.1126/science.289.5483.1340)
@@ -243,6 +247,7 @@
 
 ### McGrath and Sparks (2017)
 - [doi:10.3847/2515-5172/aa988e](https://doi.org/10.3847%2F2515-5172%2Faa988e)
+- Short note explaining HST plume observations and possible connections with *Galileo* radio occultation data
 
 ### Paganini et al. (2019)
 - [doi:10.1038/s41550-019-0933-6](https://doi.org/10.1038%2Fs41550-019-0933-6)
@@ -250,9 +255,18 @@
 
 ### Roth et al. (2013)
 - [doi:10.1126/science.1247051](http://dx.doi.org/10.1126/science.1247051)
+- HST observations of potential water plume based on oxygen emissions
+- Non-detection on previous observations suggests transience
+- Possibly caused by tidal forcing
 
 ### Roth et al. (2014)
 - [doi:10.1073/pnas.1416671111](http://dx.doi.org/10.1073/pnas.1416671111)
+- New HST observations timed to test the tidal forcing hypothesis
+- No new detection of oxygen emissions
+- Therefore tidal forcing alone can't predict plumes at Europa
 
 ### Sparks et al. (2016)
 - [doi:10.3847/0004-637x/829/2/121](http://dx.doi.org/10.3847/0004-637x/829/2/121)
+- HST observations of water vapor at Europa using a different technique from the [Roth et al. (2013)](#roth-et-al-2013) method
+- FUV observations of absorption features showed 3 detections consistent with a plume
+- Interestingly, they were made during the same time period as the observations discussed by [Roth et al. (2014)](#roth-et-al-2014), where no detections were made with the emissions method
