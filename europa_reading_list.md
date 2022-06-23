@@ -133,7 +133,7 @@
 - Traces particles through EM fields from model of [Arnold et al. (2019)](#arnold-et-al-2019)
 - Surface access maps (and precipitation) for energetic ions
 
-### * Nordheim et al. (2022)
+### Nordheim et al. (2022)
 - [doi:10.3847/PSJ/ac382a](https://doi.org/10.3847/PSJ/ac382a)
 - Traces energetic particles through EM fields from [Harris et al. (2021)](#harris-et-al-2021)
 - Surface access maps (and precipitation) for energetic ions
