@@ -28,7 +28,7 @@
 - Single fluid MHD model for the plasma interaction
 - Data-model comparisons with E17, E25a, E26 *Galileo* flybys
 - Also includes analytic model for plasma
-- And estimates of ionosphere conductance
+- Demonstrated effects of plumes ("atmospheric inhomogeneities") on plasma and EM fields
 
 ### Bagenal et al. (2015)
 - [doi:10.1016/j.icarus.2015.07.036](http://dx.doi.org/10.1016/j.icarus.2015.07.036)
